@@ -89,3 +89,16 @@ nlu:
     - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
+    
+  - intent: cannot_view_files
+    examples: |
+      - I can't see my files
+      - My files are not visible
+      - Unable to view files
+      - Where are my files?
+      - I can't find my documents
+      - The files are missing
+      - Why can't I see any files?
+      - None of my files are showing up
+      - Files are not loading
+      - Can't access my files
