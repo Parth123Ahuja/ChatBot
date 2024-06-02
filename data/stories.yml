@@ -28,7 +28,7 @@ stories:
       - intent: deny
       - action: utter_goodbye
 
-      - story: Respond to cannot view files
-        steps:
-          - intent: cannot_view_files
-          - action: utter_cannot_view_files
+  - story: Respond to cannot view files
+    steps:
+      - intent: cannot_view_files
+      - action: utter_cannot_view_files
