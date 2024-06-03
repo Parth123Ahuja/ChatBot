@@ -30,6 +30,9 @@ responses:
   utter_iamabot:
     - text: "I am a bot, powered by Rasa."
 
+  utter_weather:
+    - text: "Today is a great weather"
+
   utter_cannot_view_files:
     - text: >
         R1: Check if specific files or all files are not visible.
